@@ -1,0 +1,19 @@
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\1221018_Citra2.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\1221018_Citra2.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\Emgu.CV.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\Emgu.CV.UI.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\Emgu.Util.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\ZedGraph.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\Emgu.CV.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\Emgu.Util.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\obj\Debug\_1221018_Citra2.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\obj\Debug\_1221018_Citra2.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\obj\Debug\1221018_Citra2.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\obj\Debug\1221018_Citra2.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\1221018_Citra2\1221018_Citra2\obj\Debug\1221018_Citra2.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_Citra2\1221018_Citra2\obj\Debug\1221018_Citra2.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_Citra2\1221018_Citra2\obj\Debug\1221018_Citra2.pdb
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_Citra2\1221018_Citra2\obj\Debug\1221018_Citra2.exe
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_Citra2\1221018_Citra2\obj\Debug\1221018_Citra2.pdb

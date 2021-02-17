@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="1221018_CitraUTS">
+</Property><Property Name="Solution File" Value="D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS.sln">
+</Property><Property Name="User Options File" Value="D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS.suo">
+</Property><Property Name="Date" Value="Saturday, September 27, 2014">
+</Property><Property Name="Time" Value="23:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="1221018_CitraUTS.sln" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="1221018_CitraUTS.suo" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS.suo">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\1221018_CitraUTS.csproj" Description="Project file successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\1221018_CitraUTS.csproj">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Form1.cs" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Form1.cs">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Form1.Designer.cs" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Program.cs" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Program.cs">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Properties\Settings.settings" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Form1.resx" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Form1.resx">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\Properties\Resources.resx" Description="File successfully backed up as D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\Backup\1221018_CitraUTS\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\1221018_CitraUTS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="1221018_CitraUTS" Source="1221018_CitraUTS\1221018_CitraUTS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="1221018_CitraUTS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="1221018_CitraUTS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="1221018_CitraUTS" Source="1221018_CitraUTS\1221018_CitraUTS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

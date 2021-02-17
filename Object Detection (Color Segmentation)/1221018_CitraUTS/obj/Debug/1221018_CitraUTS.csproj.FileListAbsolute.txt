@@ -1,0 +1,43 @@
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\1221018_CitraUTS.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\1221018_CitraUTS.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.CV.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.CV.UI.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.Util.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\ZedGraph.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.Util.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.CV.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\_1221018_CitraUTS.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\_1221018_CitraUTS.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Pengolahan Citra Digital\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.pdb
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.exe
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.pdb
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\1221018_CitraUTS.exe
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\1221018_CitraUTS.pdb
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\ZedGraph.dll
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.Util.xml
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.CV.xml
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.CV.UI.xml
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\ResolveAssemblyReference.cache
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\_1221018_CitraUTS.Form1.resources
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\_1221018_CitraUTS.Properties.Resources.resources
+D:\Don't Open it!\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.exe
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.pdb
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\1221018_CitraUTS.exe
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\1221018_CitraUTS.pdb
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\ZedGraph.dll
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.CV.xml
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.CV.UI.xml
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\bin\Debug\Emgu.Util.xml
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\_1221018_CitraUTS.Form1.resources
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\_1221018_CitraUTS.Properties.Resources.resources
+D:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.csproj.GenerateResource.Cache
+I:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.exe
+I:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.pdb
+F:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.exe
+F:\Kuliah\Semester 4\Pengolahan Citra Digital\Tugas\1221018_CitraUTS\1221018_CitraUTS\obj\Debug\1221018_CitraUTS.pdb
