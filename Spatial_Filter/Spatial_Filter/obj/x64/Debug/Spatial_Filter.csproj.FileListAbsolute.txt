@@ -1,0 +1,37 @@
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Spatial_Filter.exe
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Spatial_Filter.pdb
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.World.dll
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.World.xml
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.exe
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.pdb
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.UI.dll
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\bin\x64\Debug\ZedGraph.dll
+c:\users\acer\documents\visual studio 2010\Projects\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.UI.xml
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.exe
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.pdb
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Spatial_Filter.exe
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Spatial_Filter.pdb
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\x64\Debug\ZedGraph.dll
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.UI.xml
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.World.xml
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.Form1.resources
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.Properties.Resources.resources
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.csproj.GenerateResource.Cache
+F:\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.csprojResolveAssemblyReference.cache
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.exe
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.pdb
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Spatial_Filter.exe
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Spatial_Filter.pdb
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\x64\Debug\ZedGraph.dll
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.Form1.resources
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x64\Debug\Spatial_Filter.Properties.Resources.resources
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x64\Debug\GenerateResource.write.1.tlog

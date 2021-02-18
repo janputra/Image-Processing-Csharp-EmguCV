@@ -1,0 +1,26 @@
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\Debug\Spatial_Filter.exe
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\Debug\Spatial_Filter.pdb
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\Debug\Emgu.CV.UI.dll
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\Debug\Emgu.CV.World.dll
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\Debug\ZedGraph.dll
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\Debug\Emgu.CV.UI.xml
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\bin\Debug\Emgu.CV.World.xml
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.Form1.resources
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.Properties.Resources.resources
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.exe
+C:\Users\TE DOSEN\Desktop\Citra\DIP\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.pdb
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\Debug\Spatial_Filter.exe
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\Debug\Spatial_Filter.pdb
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\Debug\ZedGraph.dll
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\Debug\Emgu.CV.UI.xml
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\bin\Debug\Emgu.CV.World.xml
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.csprojResolveAssemblyReference.cache
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.Form1.resources
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.Properties.Resources.resources
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.csproj.GenerateResource.Cache
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.csproj.CoreCompileInputs.cache
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.exe
+H:\Recent\Teaching Material\Pengolahan Citra Digital\Project\Spatial_Filter\Spatial_Filter\obj\x86\Debug\Spatial_Filter.pdb
